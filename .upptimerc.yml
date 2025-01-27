@@ -12,6 +12,8 @@ sites:
     url: https://doc.adamanteye.cc
   - name: Taskchampion Sync Server
     url: https://task.adamanteye.cc
+  - name: GPG Static File Server
+    url: https://gpg.adamanteye.cc
 
 status-website:
   cname: status.adamanteye.cc
