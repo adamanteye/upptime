@@ -10,6 +10,8 @@ sites:
     url: https://wakatime.adamanteye.cc
   - name: Hedgedoc
     url: https://doc.adamanteye.cc
+  - name: Taskchampion Sync Server
+    url: https://task.adamanteye.cc
 
 status-website:
   cname: status.adamanteye.cc
