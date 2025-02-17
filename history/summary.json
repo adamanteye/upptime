@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 248,
-    "timeWeek": 254,
-    "timeMonth": 229,
-    "timeYear": 232,
+    "time": 233,
+    "timeDay": 264,
+    "timeWeek": 248,
+    "timeMonth": 227,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
+    "time": 145,
     "timeDay": 106,
-    "timeWeek": 132,
-    "timeMonth": 145,
-    "timeYear": 146,
+    "timeWeek": 125,
+    "timeMonth": 142,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -40,36 +40,40 @@
     "url": "https://wakatime.adamanteye.cc",
     "icon": "https://icons.duckduckgo.com/ip3/wakatime.adamanteye.cc.ico",
     "slug": "waka-time",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 235,
-    "timeWeek": 274,
-    "timeMonth": 234,
-    "timeYear": 234,
-    "dailyMinutesDown": {}
+    "time": 236,
+    "timeDay": 267,
+    "timeWeek": 262,
+    "timeMonth": 232,
+    "timeYear": 236,
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   },
   {
     "name": "Hedgedoc",
     "url": "https://doc.adamanteye.cc",
     "icon": "https://icons.duckduckgo.com/ip3/doc.adamanteye.cc.ico",
     "slug": "hedgedoc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 314,
-    "timeWeek": 305,
+    "time": 259,
+    "timeDay": 271,
+    "timeWeek": 295,
     "timeMonth": 263,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "timeYear": 259,
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   },
   {
     "name": "Taskchampion Sync Server",
@@ -82,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 250,
-    "timeWeek": 244,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "time": 233,
+    "timeDay": 283,
+    "timeWeek": 246,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 259,
-    "timeWeek": 251,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 222,
+    "timeDay": 268,
+    "timeWeek": 245,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   }
 ]
