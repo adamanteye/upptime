@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakatime.adamanteye.cc.ico",
     "slug": "waka-time",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.84%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.84%",
     "time": 236,
     "timeDay": 267,
     "timeWeek": 262,
     "timeMonth": 232,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-18": 85,
+      "2025-02-17": 11
     }
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc.adamanteye.cc.ico",
     "slug": "hedgedoc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.84%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.84%",
     "time": 259,
     "timeDay": 271,
     "timeWeek": 295,
     "timeMonth": 263,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-18": 85,
+      "2025-02-17": 11
     }
   },
   {
