@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Note
     url: https://note.adamanteye.cc
+  - name: Heartbeat
+    url: https://heartbeat.adamanteye.cc/?zone=8
   - name: Pastebin
     url: https://bin.adamanteye.cc
   - name: WakaTime
