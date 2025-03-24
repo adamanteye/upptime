@@ -14,6 +14,8 @@ sites:
     url: https://task.adamanteye.cc
   - name: GPG Static File Server
     url: https://gpg.adamanteye.cc
+  - name: Seafile
+    url: https://cloud.adamanteye.cc
 
 status-website:
   cname: status.adamanteye.cc
